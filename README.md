@@ -1,10 +1,12 @@
 ## Tools for Devs
 
+- [Can I Use](https://caniuse.com/) - Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [Meta Tags](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 - [README](https://readme.so/) - The easiest way to create a README.
 - [Type Scale](https://type-scale.com/) - Preview and choose the right type scale for your project.
-- [Small Dev Tools](https://smalldev.tools/) - FREE tools for developers
-- []
+- [Small Dev Tools](https://smalldev.tools/) - FREE tools for developers.
+- [JSON Formatter and Validator](https://jsonformatter.org/) - JSON Formatter / Beautifier and JSON Validator will format JSON data, and helps to validate, convert JSON to XML or CSV. 
+- [Flaticon](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects.
 
 ## Websites for Practice 
 
@@ -35,4 +37,14 @@
 - [SaaS landing page](https://saaslandingpage.com/) - The best landing page examples created by top-class SaaS companies.
 - [Dribble](https://dribbble.com/) - The home to the world's best design and creative professionals.
 - [Land Book](https://land-book.com/) - Find the best hand-picked website design inspiration.
-- [Inspo Finds](https://inspofinds.com/) - 
+
+
+## API's
+
+- [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - JSONPlaceholder is a free online REST API that you can use whenever you need some fake data.
+- [Unslpash](https://unsplash.com/developers) - Create with the largest open collection of high-quality photos.
+- [Random User Generator](https://randomuser.me/) - Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It's like Lorem Ipsum, for people.
+
+## News
+
+- [daily.dev](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL0JiRksH4AhWJDEQIHXYJBrUQFnoECAkQAQ&url=https%3A%2F%2Fdaily.dev%2F&usg=AOvVaw2h2GTZqnaItBpV4Hva4wnm) - daily.dev is a community of developers getting together around discovering and exploring dev news. Join the movement to empower better software together.
