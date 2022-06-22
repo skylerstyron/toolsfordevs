@@ -30,7 +30,6 @@
 - [React.js Cheatsheet](https://devhints.io/react) - This guide targets React v15 to v16.
 - [OverAPI.com](https://overapi.com/) - OverAPI.com is a site collecting all the cheatsheets, all!
 - [Developer Cheat Sheets](http://www.developer-cheatsheets.com/) - Developer cheatsheets. The history of web development.
-- []
 
 ## Inspiration
 
