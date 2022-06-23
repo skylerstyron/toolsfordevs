@@ -7,6 +7,7 @@
 - [Small Dev Tools](https://smalldev.tools/) - FREE tools for developers.
 - [JSON Formatter and Validator](https://jsonformatter.org/) - JSON Formatter / Beautifier and JSON Validator will format JSON data, and helps to validate, convert JSON to XML or CSV. 
 - [Flaticon](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects.
+- [CSS Bud](https://cssbud.com/) - CSS tools and code snippets for your design, technical and creative needs. Shadows, glows, text tools and more.
 
 ## Websites for Practice 
 
@@ -47,3 +48,4 @@
 ## News
 
 - [daily.dev](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL0JiRksH4AhWJDEQIHXYJBrUQFnoECAkQAQ&url=https%3A%2F%2Fdaily.dev%2F&usg=AOvVaw2h2GTZqnaItBpV4Hva4wnm) - daily.dev is a community of developers getting together around discovering and exploring dev news. Join the movement to empower better software together.
+- [DEV Community](https://dev.to/) - We're a place where coders share, stay up-to-date and grow their careers.
