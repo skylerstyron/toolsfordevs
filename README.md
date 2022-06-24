@@ -8,6 +8,8 @@
 - [JSON Formatter and Validator](https://jsonformatter.org/) - JSON Formatter / Beautifier and JSON Validator will format JSON data, and helps to validate, convert JSON to XML or CSV. 
 - [Flaticon](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects.
 - [CSS Bud](https://cssbud.com/) - CSS tools and code snippets for your design, technical and creative needs. Shadows, glows, text tools and more.
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - You can set the numbers, and units of your columns and rows, and I'll generate a CSS grid for you!
+- [Stack Share](https://stackshare.io/stacks) - StackShare is a Tech Stack Intelligence platform and community helping teams to make data-driven technology decisions.
 
 ## Websites for Practice 
 
