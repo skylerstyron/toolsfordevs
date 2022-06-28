@@ -11,6 +11,12 @@
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - You can set the numbers, and units of your columns and rows, and I'll generate a CSS grid for you!
 - [Stack Share](https://stackshare.io/stacks) - StackShare is a Tech Stack Intelligence platform and community helping teams to make data-driven technology decisions.
 
+## Learn 
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
+- [React](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
+- [React Docs (Beta)](https://beta.reactjs.org/) - All explanations are written using Hooks rather than classes, interactive examples and visual diagrams, Guides include challenges (with solutions!) to check your understanding.
+- [Next.js](https://nextjs.org/docs/getting-started) - The React Framework for. Production · Next.js gives you the best developer experience with all the features you need for production.
+
 ## Websites for Practice 
 
 - [Codecademy](https://www.codecademy.com/catalog) - Master your language with lessons, quizzes, and projects.
