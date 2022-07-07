@@ -1,5 +1,7 @@
 ## Tools for Devs
 
+### Web
+
 - [Can I Use](https://caniuse.com/) - Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [Meta Tags](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 - [README](https://readme.so/) - The easiest way to create a README.
@@ -12,6 +14,14 @@
 - [Stack Share](https://stackshare.io/stacks) - StackShare is a Tech Stack Intelligence platform and community helping teams to make data-driven technology decisions.
 - [Bundlephobia](https://bundlephobia.com/) - Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - Open source web design debug tools built with JavaScript: a FireBug for designers. - Point, click & tinker.
+
+### Terminal
+
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute.
+- [Homebrew](https://brew.sh/) - Homebrew installs the stuff you need that Apple (or your Linux system) didn’t.
+- [fish shell](https://fishshell.com/) - fish is a smart and user-friendly command line
+shell for Linux, macOS, and the rest of the family.
+
 
 ## Learn 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
