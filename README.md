@@ -10,21 +10,23 @@
 - [CSS Bud](https://cssbud.com/) - CSS tools and code snippets for your design, technical and creative needs. Shadows, glows, text tools and more.
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - You can set the numbers, and units of your columns and rows, and I'll generate a CSS grid for you!
 - [Stack Share](https://stackshare.io/stacks) - StackShare is a Tech Stack Intelligence platform and community helping teams to make data-driven technology decisions.
+- [Bundlephobia](https://bundlephobia.com/) - Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
+- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - Open source web design debug tools built with JavaScript: a FireBug for designers. - Point, click & tinker.
 
 ## Learn 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
 - [React](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 - [React Docs (Beta)](https://beta.reactjs.org/) - All explanations are written using Hooks rather than classes, interactive examples and visual diagrams, Guides include challenges (with solutions!) to check your understanding.
 - [Next.js](https://nextjs.org/docs/getting-started) - The React Framework for. Production · Next.js gives you the best developer experience with all the features you need for production.
+- [Codecademy](https://www.codecademy.com/catalog) - Master your language with lessons, quizzes, and projects.
+- [FreeCodeCamp](https://www.freecodecamp.org/) - help people learn to code for free.
+- [Treehouse](https://teamtreehouse.com/) - Expert-led video courses to start your journey into coding, programming, and design.
 
 ## Websites for Practice 
 
-- [Codecademy](https://www.codecademy.com/catalog) - Master your language with lessons, quizzes, and projects.
 - [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
-- [FreeCodeCamp](https://www.freecodecamp.org/) - help people learn to code for free.
 - [Codewell](https://www.codewell.cc/) - Improve your HTML and CSS skills by practicing on real design templates.
 - [CSSBattle](https://cssbattle.dev/) - The objective of the game is to write HTML/CSS to replicate the given target image in the least code possible. 
-- [Treehouse](https://teamtreehouse.com/) - Expert-led video courses to start your journey into coding, programming, and design.
 - [Coderbyte](https://coderbyte.com/) - Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from leading technology companies.
 - [Javascript30](https://javascript30.com/) - I have no ideas! Please don't make me do another todo app. Ideas, Eh? I've got lots! This is JavaScript30 — let's build 30 things together.
 - [Frontend Mentor](https://www.frontendmentor.io/) - Improve your front-end skills by building real projects.
@@ -57,3 +59,7 @@
 
 - [daily.dev](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiL0JiRksH4AhWJDEQIHXYJBrUQFnoECAkQAQ&url=https%3A%2F%2Fdaily.dev%2F&usg=AOvVaw2h2GTZqnaItBpV4Hva4wnm) - daily.dev is a community of developers getting together around discovering and exploring dev news. Join the movement to empower better software together.
 - [DEV Community](https://dev.to/) - We're a place where coders share, stay up-to-date and grow their careers.
+
+## Design
+
+- [Font Flipper](https://fontflipper.com/) - Preview 800+ Google Fonts on top of your own designs, without having to download the fonts first.

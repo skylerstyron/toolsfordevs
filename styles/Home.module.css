@@ -4,19 +4,10 @@
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
+  padding: 3rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.footer {
-  display: flex;
-  flex: 1;
-  padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
 }
@@ -51,12 +42,12 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  max-width: 800px;
+  max-width: 1200px;
 }
 
 .card {
-  /* display: flex;
-  justify-content: center; */
+  display: flex;
+  justify-content: center;
   margin: 1rem;
   padding: 1.5rem;
   text-align: left;
@@ -91,6 +82,15 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (max-width: 600px) {
