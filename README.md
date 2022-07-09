@@ -24,13 +24,32 @@ shell for Linux, macOS, and the rest of the family.
 
 
 ## Learn 
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
-- [React](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
-- [React Docs (Beta)](https://beta.reactjs.org/) - All explanations are written using Hooks rather than classes, interactive examples and visual diagrams, Guides include challenges (with solutions!) to check your understanding.
-- [Next.js](https://nextjs.org/docs/getting-started) - The React Framework for. Production · Next.js gives you the best developer experience with all the features you need for production.
+
 - [Codecademy](https://www.codecademy.com/catalog) - Master your language with lessons, quizzes, and projects.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - help people learn to code for free.
 - [Treehouse](https://teamtreehouse.com/) - Expert-led video courses to start your journey into coding, programming, and design.
+
+### HTML
+- [Learn HTML](https://www.learn-html.org/) - Learn HTML provides an interactive tutorial that explains how to build HTML & CSS websites step by step.
+- [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) - To build websites, you should know about HTML — the fundamental technology used to define the structure of a webpage.
+
+### CSS
+- [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML).
+- [CSS Tutorial - W3Schools](https://www.w3schools.com/css/) - CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.
+- [CSS-Tricks - Tips, Tricks, and Techniques](https://css-tricks.com/) - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+
+### JavaScript
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
+
+### React.js
+- [React](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
+- [React Docs (Beta)](https://beta.reactjs.org/) - All explanations are written using Hooks rather than classes, interactive examples and visual diagrams, Guides include challenges (with solutions!) to check your understanding.
+- [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge.
+
+- [Next.js](https://nextjs.org/docs/getting-started) - The React Framework for. Production · Next.js gives you the best developer experience with all the features you need for production.
+
+### DevOps
+- [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) - The goal is to take 90 days, 1 hour each a day, to tackle over 13 areas of "DevOps" to a foundational knowledge.
 
 ## Websites for Practice 
 
