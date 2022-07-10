@@ -28,6 +28,7 @@ shell for Linux, macOS, and the rest of the family.
 - [Codecademy](https://www.codecademy.com/catalog) - Master your language with lessons, quizzes, and projects.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - help people learn to code for free.
 - [Treehouse](https://teamtreehouse.com/) - Expert-led video courses to start your journey into coding, programming, and design.
+- [The Odin Project](https://www.theodinproject.com/) - The Odin Project empowers aspiring web developers to learn together for free.
 
 ### HTML
 - [Learn HTML](https://www.learn-html.org/) - Learn HTML provides an interactive tutorial that explains how to build HTML & CSS websites step by step.
