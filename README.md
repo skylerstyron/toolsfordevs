@@ -13,7 +13,7 @@
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - You can set the numbers, and units of your columns and rows, and I'll generate a CSS grid for you!
 - [Stack Share](https://stackshare.io/stacks) - StackShare is a Tech Stack Intelligence platform and community helping teams to make data-driven technology decisions.
 - [Bundlephobia](https://bundlephobia.com/) - Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
-- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - Open source web design debug tools built with JavaScript: a FireBug for designers. - Point, click & tinker.
+
 
 ### Terminal
 
@@ -102,3 +102,4 @@ shell for Linux, macOS, and the rest of the family.
 ### Productivity
 
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease. [GitHub](https://github.com/eczarny/spectacle)
+- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - Open source web design debug tools built with JavaScript: a FireBug for designers. - Point, click & tinker.
