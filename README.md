@@ -93,3 +93,8 @@ shell for Linux, macOS, and the rest of the family.
 ## Design
 
 - [Font Flipper](https://fontflipper.com/) - Preview 800+ Google Fonts on top of your own designs, without having to download the fonts first.
+
+
+## Chrome Extensions
+
+- [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla?hl=en) - Gain new developer skills every time you open a New Tab! Choose which programming languages you want to get better at.
