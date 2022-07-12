@@ -101,5 +101,5 @@ shell for Linux, macOS, and the rest of the family.
 
 ### Productivity
 
-- [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease. [GitHub](https://github.com/eczarny/spectacle)
+- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS using keyboard shortcuts or snap areas. [GitHub](https://github.com/rxhanson/Rectangle)
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - Open source web design debug tools built with JavaScript: a FireBug for designers. - Point, click & tinker.
