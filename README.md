@@ -98,3 +98,7 @@ shell for Linux, macOS, and the rest of the family.
 ## Chrome Extensions
 
 - [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla?hl=en) - Gain new developer skills every time you open a New Tab! Choose which programming languages you want to get better at.
+
+### Productivity
+
+- [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease. [GitHub](https://github.com/eczarny/spectacle)
