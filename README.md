@@ -93,6 +93,7 @@ shell for Linux, macOS, and the rest of the family.
 ## Design
 
 - [Font Flipper](https://fontflipper.com/) - Preview 800+ Google Fonts on top of your own designs, without having to download the fonts first.
+- [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 
 
 ## Chrome Extensions
