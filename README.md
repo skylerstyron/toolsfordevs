@@ -52,6 +52,9 @@ shell for Linux, macOS, and the rest of the family.
 ### DevOps
 - [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) - The goal is to take 90 days, 1 hour each a day, to tackle over 13 areas of "DevOps" to a foundational knowledge.
 
+### Youtube Channels
+- [Fireship](https://www.youtube.com/c/Fireship) - High-intensity ⚡ code tutorials to help you build & ship your app faster.
+
 ## Websites for Practice 
 
 - [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
