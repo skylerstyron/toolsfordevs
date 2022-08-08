@@ -1,4 +1,4 @@
-# [Tools for Devs](https://toolsfordevs.io)
+# Tools for Devs
 
 ### Web
 
