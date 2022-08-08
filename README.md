@@ -64,6 +64,9 @@ shell for Linux, macOS, and the rest of the family.
 - [Javascript30](https://javascript30.com/) - I have no ideas! Please don't make me do another todo app. Ideas, Eh? I've got lots! This is JavaScript30 — let's build 30 things together.
 - [Frontend Mentor](https://www.frontendmentor.io/) - Improve your front-end skills by building real projects.
 
+## Interview Prep
+
+- [Front End Developer Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## Cheat Sheets
 
@@ -75,9 +78,6 @@ shell for Linux, macOS, and the rest of the family.
 - [OverAPI.com](https://overapi.com/) - OverAPI.com is a site collecting all the cheatsheets, all!
 - [Developer Cheat Sheets](http://www.developer-cheatsheets.com/) - Developer cheatsheets. The history of web development.
 
-## Interview Prep
-
-- [Front End Developer Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## Inspiration
 
