@@ -17,18 +17,18 @@
 
 ### Terminal
 
-- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute.
 - [Homebrew](https://brew.sh/) - Homebrew installs the stuff you need that Apple (or your Linux system) didn’t.
 - [fish shell](https://fishshell.com/) - fish is a smart and user-friendly command line
 shell for Linux, macOS, and the rest of the family.
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute.
 
 
 ## Learn 
 
+- [The Odin Project](https://www.theodinproject.com/) - The Odin Project empowers aspiring web developers to learn together for free.
 - [Codecademy](https://www.codecademy.com/catalog) - Master your language with lessons, quizzes, and projects.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - help people learn to code for free.
 - [Treehouse](https://teamtreehouse.com/) - Expert-led video courses to start your journey into coding, programming, and design.
-- [The Odin Project](https://www.theodinproject.com/) - The Odin Project empowers aspiring web developers to learn together for free.
 
 ### HTML
 - [Learn HTML](https://www.learn-html.org/) - Learn HTML provides an interactive tutorial that explains how to build HTML & CSS websites step by step.
@@ -63,6 +63,7 @@ shell for Linux, macOS, and the rest of the family.
 - [Coderbyte](https://coderbyte.com/) - Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from leading technology companies.
 - [Javascript30](https://javascript30.com/) - I have no ideas! Please don't make me do another todo app. Ideas, Eh? I've got lots! This is JavaScript30 — let's build 30 things together.
 - [Frontend Mentor](https://www.frontendmentor.io/) - Improve your front-end skills by building real projects.
+- [JSchallenger](https://www.jschallenger.com/) - Free Javascript challenges. Learn Javascript online by solving coding exercises.
 
 ## Interview Prep
 
